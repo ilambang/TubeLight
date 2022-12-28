@@ -1,2 +1,20 @@
 # TubeLight
 TubeLight - an ESP32 Wifi Webserver Neopixel controller.
+
+
+![image1](https://lh6.googleusercontent.com/rNVdKC7-KZ-ax6ScVdeuzdQm4Knfs7GWDHa1ZIqTQgXKqXcUfXc4_80b8ENqKWCl2UIcQRbkgWNn8BM08ruUJgPLanqjVGntsQO70ZFltZTtCM_sglTrxptuLr-ZF2Rubr9GVeEPWZqPJaGRIIANldVJSyte_mxK_PlI1t7JuDu1R5litkw2e6NxrfSioCWISZorNRrJ6Q)
+Figure 1. Display of the Controller Module
+
+![image2](https://lh4.googleusercontent.com/xhs-2xxxkteNCL_n9udhXwQBXhGSAv51mRzaA5zpxpSS9M61BabtuQgP33qLAMpgQidd74iM9bADx7g7ihyIIAb7x_JvajUjMiq1mBGuiqnatxW2E3v6808F8LQk_t_ZHP8GyFZ__wqw1igl-3W3bbM3HaVZKqZ_JvqenpLAO-QMhlKfhTP8W9F-hv7k_kIE5VBEJZbNLQ)
+Figure 2. Touch Button
+
+![image3](https://lh3.googleusercontent.com/DEyl7BrsHvltmBYlC3X5GwIKFkbjYEwQ6PXcojXcg6Fe47gxOwLIJHwQGBrK90SReHUPdLKi3FSjTs8epSLlffrFi-ok9ZbSNIA_dE3yltMnuRPh32y1OvNaS4CBnSMAvRQX1nKNoNY8SST5qp1Kw9YN_X3ZeaNnTAUG0m2oNJ-4DAvcRz1UXMCJOIpyA2nYaLUOnzE3Gw)
+Figure 3. Tube Light Connected and On
+
+![image4](https://lh5.googleusercontent.com/BfKd2yAULguJcgclqAkeHah15XBLoK7OWMFtI2_du2uYfOH_xzm3RrW_QDkrCk9xH7BGaNG8w6yAssQ1AWyd6_XjI7haLhXq7nWpdy5pUWWR4kc6cWfO7pZDGTxoO58HDagh6lXldfCxvAh44ngelgHvj19zxTwtfsWJrCCQsZDbbZ7X1HetiK-tmyGLBUySRqmztKA0Eg)
+Figure 4. Webserver Display
+
+![image5](https://lh4.googleusercontent.com/NGRVm6_0FjJNq80r0b-qHIXLFjQi2Hg3JyKpKLXsUWKgcNQwQPmOiJEVNO7XukqBNKIchBNxJ2dF5KSFlvB3U7EZiUlK-geFcHatyN9Kd8i4vYajPhVilRDjRm44m0bNo5QoTHDjUruvYOt_crMLxS4Mf4VC_mEWyjh8OJvIcwnurmHl5h6arJT0mhJwx5ZOPe5eMUnoiw)
+Figure 5. 2 Color Mode (Right)
+
+ 
